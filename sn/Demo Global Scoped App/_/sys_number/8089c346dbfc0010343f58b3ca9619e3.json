@@ -1,0 +1,18 @@
+{
+  "category": "u_demo_incident",
+  "maximum_digits": 7,
+  "number": 1000,
+  "prefix": "DEM",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-31 13:33:46",
+  "sys_id": "8089c346dbfc0010343f58b3ca9619e3",
+  "sys_mod_count": 0,
+  "sys_name": "DEM",
+  "sys_package": "2f790bc2dbfc0010343f58b3ca96198e",
+  "sys_policy": null,
+  "sys_scope": "2f790bc2dbfc0010343f58b3ca96198e",
+  "sys_update_name": "sys_number_8089c346dbfc0010343f58b3ca9619e3",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-31 13:33:46"
+}
