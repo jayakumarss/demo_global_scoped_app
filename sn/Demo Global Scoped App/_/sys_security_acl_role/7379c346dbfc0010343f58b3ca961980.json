@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-31 13:33:45",
+  "sys_id": "7379c346dbfc0010343f58b3ca961980",
+  "sys_mod_count": 0,
+  "sys_name": "u_demo_incident.demo_global_scoped_app_user",
+  "sys_package": "2f790bc2dbfc0010343f58b3ca96198e",
+  "sys_policy": null,
+  "sys_scope": "2f790bc2dbfc0010343f58b3ca96198e",
+  "sys_update_name": "sys_security_acl_role_7379c346dbfc0010343f58b3ca961980",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-31 13:33:45",
+  "transaction_id": null
+}
