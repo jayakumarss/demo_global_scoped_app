@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "u_demo_incident",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-31 13:33:46",
+  "sys_id": "599a8746db300010fef264d74896198e",
+  "sys_mod_count": 0,
+  "sys_name": "u_demo_incident",
+  "sys_package": "2f790bc2dbfc0010343f58b3ca96198e",
+  "sys_policy": null,
+  "sys_scope": "2f790bc2dbfc0010343f58b3ca96198e",
+  "sys_update_name": "ua_table_licensing_config_599a8746db300010fef264d74896198e",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-31 13:33:46"
+}
